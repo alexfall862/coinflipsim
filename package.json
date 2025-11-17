@@ -1,0 +1,10 @@
+{
+  "name": "simsn-coinflip-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/web"
+  ],
+  "scripts": {
+    "start": "node apps/web/server.js"
+  }
+}
