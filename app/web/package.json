@@ -1,0 +1,7 @@
+{
+  "name": "simsn-coinflip-web",
+  "private": true,
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
